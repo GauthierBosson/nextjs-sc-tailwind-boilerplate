@@ -1,0 +1,1 @@
+Simple boilerplate used for create a new project with Next.js + styled-components + Tailwind CSS
